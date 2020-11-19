@@ -16,3 +16,6 @@ print(type(b))
 print(type(c))
 print(type(d))
 print(type(print))
+
+print(4 and 5)
+print(0 or 5)
