@@ -23,5 +23,5 @@ print(math.type(3.0))
 
 -- 支持以0x开头的十六进制常量
 print(0xff)
-print(0x1p-1)
+print(0x1p=-1)
 print(0xa.bp2)
